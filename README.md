@@ -1,2 +1,1 @@
-# Python-Data-Science
-Contoh dan Program Python Data Science
+Python dalam data science adalah penggunaan bahasa pemrograman Python untuk melakukan berbagai tugas dalam analisis data, seperti membersihkan data, membangun model pembelajaran mesin (machine learning), membuat visualisasi, dan melakukan analisis statistik untuk mendapatkan wawasan bisnis.
