@@ -1,5 +1,3 @@
-<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/d23cf97c-5e8e-4070-b905-ea445f895c51" />
-
 ## Jupyter Notebook
 Jupyter Notebook adalah aplikasi berbasis web yang berfungsi sebagai lingkungan interaktif untuk membuat dokumen yang menggabungkan kode, visualisasi, teks, dan media kaya dalam satu dokumen interaktif. 
 
