@@ -9,4 +9,13 @@ Jupyter Notebook adalah aplikasi berbasis web yang berfungsi sebagai lingkungan 
 5. Kernel. Kalian bisa mengakses kolom Kernel untuk mengerjakan kernel atau bahasa pemrograman yang berjalan. Kalian dapat melakukan restart, reconnect, mematikan, atau mengganti kernel yang dipakai dalam notebook pada kolom ini. Meskipun kolom Kernel jarang dipakai, ada saatnya kalian perlu melakukan debug notebook dan perlu restart kernel untuk melakukannya.
 6. Cell. Di dalam kolom ini, kalian dapat menjalankan satu, beberapa, atau bahkan seluruh cell yang tersedia. Mengubah tipe cell yang dipilih juga bisa dilakukan dalam kolom Cell. Kolom ini juga bisa digunakan untuk menghapus output dari cell yang telah dikerjakan.
 7. Widget. Widget Jupyter Notebook berguna menambah atau menghapus widget yang ada. Widget sendiri pada dasarnya merupakan JavaScript yang dipakai untuk membuat konten cell menjadi dinamis. Caranya adalah dengan memanfaatkan Phyton atau Kernel yang lain.
-8. Help. Kolom ini berfungsi saat kalian perlu bantuan atau ingin mempelajari notebook lebih dalam. Berbagai hal seputar keyboard shortcut, UI, sampai referensi materi bisa kalian dapatkan di kolom Help ini. 
+8. Help. Kolom ini berfungsi saat kalian perlu bantuan atau ingin mempelajari notebook lebih dalam. Berbagai hal seputar keyboard shortcut, UI, sampai referensi materi bisa kalian dapatkan di kolom Help ini.
+
+## Python in Jupyter 
+1. Dasar Perintar Python di Jupyter
+2. Variabel , Tipe Data dan operator 
+3. Struktur Kontrol (if, for, while)
+4. Struktur Data
+5. function
+6. Modul
+
